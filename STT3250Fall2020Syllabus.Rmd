@@ -1,7 +1,7 @@
 ---
 title: "Syllabus: STT 3250 - Fundamentals of Probability"
 
-author: "Syllabus - Fall 2020"
+author: "Syllabus - Fall 2021"
 date: ""
 output:
   html_document:
@@ -14,9 +14,9 @@ output:
 
 **Office:** Virtual  
 
-**Office Hours:** 9:30am --- 11:30am TR or by appointment
+**Office Hours:** Tuesday 1:00 - 2:30pm, Wednesday 11:00-12:30pm and Thursday 1:00 - 2:30pm or by appointment.
 
-[`Click here to go to office hours`](https://appstate.zoom.us/j/93441425949?pwd=aFgvbUhzZS9RbTlPcXlKcnRCRzhMdz09) --- Password: 063714 if required
+[`Click here to go to office hours`](https://appstate.zoom.us/j/92132578395?pwd=K0pUZ21STUNIbnpqTVljR2Q4bUlBdz09) --- Password: 692669 if required
 
 <!--Questions related to the class should be addressed with the [piazza account for STT 3851](https://piazza.com/appstate/spring2018/stat3851/home).-->
 
@@ -119,9 +119,9 @@ Download PDF textbook [`here`](3250text.pdf)
 
 Note book, notes,  pencil and  a calculator.
 
-As we are trying to make this experience as close to a regular class as possible, interactivity is important. Therefore you are required to have your \textbf{video} \textbf{camera} \textbf{on} and actively participate in all the class discussions. 
+As we are trying to make this experience as close to a regular class as possible, interactivity is important. Therefore you are required to have your **video on** and **actively participate in all the class discussions.** --- There may be some extra credit allocated for participation and attendance. 
 
- **Homework:** Students are expected to work all assigned problems. Only selected assignments or parts of
+**Homework:** Students are expected to work all assigned problems. Only selected assignments or parts of
 assignments may at times be graded. 
 
 **Quizzes:** I anticipate giving in class quizzes regularly during the semester. As the final quizzes need to be proctored you are required to have your video camera on during quiz time.
