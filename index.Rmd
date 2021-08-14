@@ -6,9 +6,9 @@ title: "Welcome"
 
 ## **Syllabus and Course pacing**
 
-* The course syllabus is stored in the [`Syllabus`](STT3250Fall2020Syllabus.html) directory of the STT 3250 repository.
+* The course syllabus --- [`Syllabus`](STT3250Fall2020Syllabus.html) 
 
-* Course pacing and assignments are stored in the [`Course pacing`](CoursePacing.html) directory of the STT 3250 repository.
+* Course pacing guide --- [`Course pacing`](CoursePacing.html) 
 
 ***
 
