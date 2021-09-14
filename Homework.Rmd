@@ -36,14 +36,15 @@ output:
 
     
 ***   
-<!--
 
-* *Homework 4*: Due Wednesday, September 16th.
+* *Homework 4*: Due Tuesday, September 21st.
     
     * Sec 2.2 - 3, 7, 9, 11
     * Sec 2.3 - 1, 3, 6, 9, 13, 19
    
 ***  
+
+<!--
 
 * *Homework 5*: Due Wednesday, September 23th.
 
