@@ -53,6 +53,11 @@ output:
     * Sec 2.6 - 5, 10, 13
 
 ***   
+
+* *Homework 6*: Due Tuesday, October 12th.
+    * Sec 3.1 - 2, 3, 4, 5, 7a), 8, 9, 11, 14, 15
+
+***  
 <!--    
     * Sec 2.6 - answers On paper with Lasanthi
 -->
