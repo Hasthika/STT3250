@@ -79,7 +79,7 @@ output:
 
 * Chapter 3: Continuous Distributions (3.2)
 * In Class Quiz 06 (Thursday, last 20 min of class)
-* [Homework 7: Due Wednesday the 06th](Homework.html)
+
 
 
 
@@ -90,7 +90,7 @@ output:
 * Chapter 3: Continuous Distributions (3.3)
 * Chapter 4: Bivariate Distributions (4.1)
 * In Class Quiz 07 (Thursday, last 20 min of class)
-* [Homework 8: Due Wednesday the 13th](Homework.html)
+
 
 
 
@@ -100,8 +100,7 @@ output:
 
 * Chapter 4: Bivariate Distributions (4.2, 4.3)
 * In Class Quiz 08 (Thursday, last 20 min of class)
-* [Homework 9: Due Wednesday Oct 20th](Homework.html)
-
+* [Homework 7: Due Thursday, October 21st](Homework.html)
 
 ***
 
@@ -109,7 +108,7 @@ output:
 
 * Chapter 4: Bivariate Distributions (4.4)
 * In Class Quiz 09 (Thursday, last 20 min of class)
-* [Homework 10: Due Wednesday October 27th](Homework.html)
+
 
 
 ***

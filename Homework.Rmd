@@ -58,6 +58,12 @@ output:
     * Sec 3.1 - 2, 3, 4, 5, 7a), 8, 9, 11, 14, 15
 
 ***  
+* *Homework 7*: Due Thursday, October 21st.
+    * Sec 3.2 - 1, 2, 3, 5, 8, 11 (skip parts d and e), 13 (skip part d), 14, 16, 21 
+    * Sec 3.3 - 1, 2, 3, 5, 7, 9b), 11, 13 
+    
+*** 
+
 <!--    
     * Sec 2.6 - answers On paper with Lasanthi
 -->
