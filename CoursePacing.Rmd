@@ -1,3 +1,4 @@
+
 ---
 title: "Schedule for STT 3250 - Fall 2021"
 author: "Dr. Hasthika Rupasinghe"
@@ -117,7 +118,7 @@ output:
 
 * Chapter 5: Distributions of Functions of Random Variables (5.1, 5.2, 5.3)
 * In Class Quiz 10 (Thursday, last 20 min of class)
-* Review for exam 2
+* [Homework 8: Due Tuesday, Nov 2nd](Homework.html)
 
 
 ***
