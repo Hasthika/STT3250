@@ -133,8 +133,10 @@ output:
 
 **Week 13: (Nov 08 -- Nov 12)**
 
-* Watch the [Lecture Recording for 5.3](https://youtu.be/h14-ZnfXtJ4) and complete the note
-* Watch the [Lecture Recording for 5.4](https://youtu.be/kjUyH6mMwLI) and complete the note
+* *Tuesday*: Watch the [Lecture Recording for 5.3](https://youtu.be/h14-ZnfXtJ4) and complete the note
+* *Wednesday and Thursday*: Watch the [Lecture Recording for 5.4](https://youtu.be/kjUyH6mMwLI) and complete the note
+
+* *Thursday*: Download [Quiz 10](Quiz_10__F2021_.pdf) and complete it (20 minutes). Please email it to me before 11am.
 
 * Make sure to check the [Homework](Homework.html) page for upcoming due dates.
 
@@ -142,17 +144,17 @@ output:
 
 **Week 14: (Nov 15 -- Nov 19)**
 
-* Watch the [Lecture Recording for 5.5]()-(not available yet) and complete the note
-* Watch the [Lecture Recording for 5.6]()-(not available yet) and complete the note
+* *Tuesday*: Work on these [Practice Problems for Exam 2](STT3250_Practice_Problems_for_Exam_2.pdf) and complete the note
+* *Wednesday*: Watch the [recording where I solve the practice problems]() -(not available yet) 
 * Make sure to check the [Homework](Homework.html) page for upcoming due dates.
 
-* *Test 02: Thursday the 18th of Nov. Covers Ch 3 and Ch4.*
+* *Thursday*: **Test 02: Thursday the 18th of Nov. Covers Ch 3 and Ch4.**
 
 
 
 ***
 
-**Week 15: (Nov 22 -- Nov 26 (No class on 24th, 25th and 26th))**
+**Week 15: (Nov 22 -- Nov 26 (No class on 24th and 25th))**
 
 
 * Review for final
